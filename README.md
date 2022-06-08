@@ -1,6 +1,13 @@
 **Age, Gender, and Emotion Detection**
 
-In this project, two pretrained models are combined to detect age, gender and emotion of people in real-time using webcam. 
+This software can recognize human's faces and predicts their age and gender and detect their emotions in real time feeding from webcam. 
+Seven basic emotions (angry, happy, sad, surprised, fear, disgust, and neutral) are displayed and you can see their fluctuations in real time.
+ 
+
+
+https://user-images.githubusercontent.com/25550774/172719404-9cc6533d-8718-451d-9003-79514167b24b.mp4
+
+
 
 
 Refrences:
