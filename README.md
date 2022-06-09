@@ -4,7 +4,7 @@ This software can recognize human's faces and predicts their age and gender and 
 Seven basic emotions (angry, happy, sad, surprised, fear, disgust, and neutral) are displayed and you can see their fluctuations in real time.
  
 
-Refrences:
+References:
 
 Emotion detection model:
 https://github.com/petercunha/Emotion
