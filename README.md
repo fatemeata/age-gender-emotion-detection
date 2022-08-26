@@ -13,7 +13,7 @@ Seven basic emotions (angry, happy, sad, surprised, fear, disgust, and neutral) 
  `python3 Emotion/webcam.py`
 
 
-### References:
+## References:
 
 Emotion detection model:
 https://github.com/petercunha/Emotion
